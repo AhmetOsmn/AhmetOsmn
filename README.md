@@ -1,4 +1,6 @@
-![I am Student and Developer](https://instagram.fyei1-1.fna.fbcdn.net/v/t51.2885-15/e35/p240x240/153261295_1339511886404117_3836695388140756771_n.jpg?tp=1&_nc_ht=instagram.fyei1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=SRIE7s-N6A4AX-W5w9w&oh=81e4f48ba38dcc551d18208a46cd0853&oe=60698D4C&ig_cache_key=MjUxNjQwNjYzMjg3NTk5MTM4Mw%3D%3D.2)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetOsmn)](https://github.com/anuraghazra/github-readme-stats)
+![I am Student and Developer](https://instagram.fyei1-1.fna.fbcdn.net/v/t51.2885-15/e35/p240x240/153261295_1339511886404117_3836695388140756771_n.jpg?tp=1&_nc_ht=instagram.fyei1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=SRIE7s-N6A4AX-W5w9w&oh=81e4f48ba38dcc551d18208a46cd0853&oe=60698D4C&ig_cache_key=MjUxNjQwNjYzMjg3NTk5MTM4Mw%3D%3D.2)              ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AhmetOsmn)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetOsmn)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
