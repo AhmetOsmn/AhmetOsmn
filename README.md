@@ -27,4 +27,3 @@ My social media accounts:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmetOsmn&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AhmetOsmn)  
