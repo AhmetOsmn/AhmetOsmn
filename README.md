@@ -1,8 +1,4 @@
          
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetOsmn)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ### Hi there 👋, I'am Ahmet Osman
 #### I am Student and Developer
 
@@ -11,6 +7,8 @@ I'm Ahmet Osman Sezgin. I live in Bursa. I am a 3rd grade student at Çanakkale 
 
 
 Skills: C# / Java/ Kotlin / Python /
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetOsmn)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning .NET Framework and Android Development  
 
@@ -21,8 +19,4 @@ My social media accounts:
 
 
 
-
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmetOsmn&show_icons=true)  
-
