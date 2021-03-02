@@ -9,7 +9,7 @@
 I'm Ahmet Osman Sezgin. I live in Bursa. I am a 3rd grade student at Çanakkale Onsekiz Mart University. I work on Web , Mobile and Windows Form programming.
 
 
-Skills: C# / Java/ Kotlin / Python/
+Skills: C# / Java/ Kotlin / Python /
 
 - 🌱 I’m currently learning .NET Framework and Android Development  
 
