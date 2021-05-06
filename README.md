@@ -10,8 +10,6 @@ Skills: C# / Java/ JS / TS / Python /
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetOsmn)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently learning .NET Framework.
-
 
 My social media accounts:
 
