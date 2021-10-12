@@ -3,10 +3,10 @@
 #### I am Student and Developer
 
 
-I'm Ahmet Osman Sezgin. I live in Bursa. I am a 3rd grade student at Çanakkale Onsekiz Mart University. 
+I'm Ahmet Osman Sezgin. I live in Bursa. I am a 4th grade student at Çanakkale Onsekiz Mart University. 
 
 
-Skills: C# / Java/ JS / TS / Python /
+Skills: C# / Java / JS / TS / React 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetOsmn)](https://github.com/anuraghazra/github-readme-stats)
 
