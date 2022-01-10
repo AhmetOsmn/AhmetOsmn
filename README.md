@@ -8,8 +8,6 @@ I'm Ahmet Osman Sezgin. I live in Bursa. I am a 4th grade student at Çanakkale 
 
 Skills: C# / Java / HTML / CSS / JS 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetOsmn)](https://github.com/anuraghazra/github-readme-stats)
-
 
 My social media accounts:
 
