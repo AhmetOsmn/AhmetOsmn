@@ -3,10 +3,10 @@
 #### I am Student and Developer
 
 
-I'm Ahmet Osman Sezgin. I live in Bursa. I am a 4th grade student at Çanakkale Onsekiz Mart University. 
+I'm Ahmet Osman Sezgin. I live in Bursa and I am a 4th grade student at Çanakkale Onsekiz Mart University. 
 
 
-Skills: C# / Java / HTML / CSS / JS 
+Skills: Dotnet / Dotnet Core / C# / Java / HTML / CSS / JS 
 
 
 My social media accounts:
