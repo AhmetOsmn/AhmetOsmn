@@ -1,12 +1,10 @@
          
 ### Hi there 👋, I'am Ahmet Osman
-#### I am Student and Developer
+#### I am Jr .Net Developer and I live in Bursa.
+ 
 
 
-I'm Ahmet Osman Sezgin. I live in Bursa and I am a 4th grade student at Çanakkale Onsekiz Mart University. 
-
-
-Skills: Dotnet / Dotnet Core / C# / Java / HTML / CSS / JS 
+Skills: Dotnet / Dotnet Core / C# / HTML / CSS / JS 
 
 
 My LinkedIn account: 
