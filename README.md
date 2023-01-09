@@ -1,6 +1,6 @@
          
 ### Hi there 👋, I'am Ahmet Osman
-#### I am Jr .Net Developer and I live in Bursa.
+#### I am Jr .Net Developer and I live in Istanbul.
  
 
 
