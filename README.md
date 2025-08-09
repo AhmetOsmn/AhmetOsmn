@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahmet Sezgin!
 
-I'm a software developer specializing in full-stack web application development. I have hands-on experience with **.NET Core**, **React**, **MsSQl**, **PostgreSQL**, **RabbitMQ**, **Redis**, **Keycloak**, **Docker**, and **microservices architecture**. I’ve been involved in several professional projects where I focused on performance, scalability, and writing clean, maintainable code.
+I'm a software developer specializing in full-stack web application development. I have hands-on experience with **.NET Core**, **React**, **SQL Server**, **PostgreSQL**, **RabbitMQ**, **Redis**, **Keycloak**, **Docker**, and **microservices architecture**. I’ve been involved in several professional projects where I focused on performance, scalability, and writing clean, maintainable code.
 
 I am continuing to work on microservices and microfrontends.
 
