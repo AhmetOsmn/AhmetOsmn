@@ -2,14 +2,17 @@
 
 I'm a software developer specializing in full-stack web application development. I have hands-on experience with **.NET Core**, **React**, **MsSQl**, **PostgreSQL**, **RabbitMQ**, **Redis**, **Keycloak**, **Docker**, and **microservices architecture**. I’ve been involved in several professional projects where I focused on performance, scalability, and writing clean, maintainable code.
 
+I am continuing to work on microservices and microfrontends.
+
+
 ## 🚀 Technologies & Tools
 
-- **Backend:** .NET 6/7/8, ASP.NET Core Web API, Entity Framework Core, Dapper, MassTransit, Hangfire, Cron etc.
+- **Backend:** .NET Core Web API & MVC, Entity Framework Core, Dapper, MassTransit, CAP, Hangfire, Cron, Redis etc.
 - **Frontend:** React.js, Vite, Storybook, TailwindCSS, MUI etc.
 - **Databases:** PostgreSQL, MSSQL
 - **DevOps & CI/CD:** Docker, Docker Compose, Azure DevOps Pipelines, GitHub Actions
-- **Messaging & Queueing:** RabbitMQ, MassTransit
-- **Other:** AutoMapper, JWT Authentication, Localization (JSON & .resx), Identity, SMTP email, Redis (cache), Git etc.
+- **Messaging & Queueing:** RabbitMQ, MassTransit, CAP
+- **Other:** AutoMapper, JWT Authentication, Keycloak, Localization (JSON & .resx), Identity, SMTP email, Redis (cache), Git etc.
 
 ## 🧠 Areas of Interest
 
