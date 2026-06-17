@@ -3,7 +3,29 @@
 I'm a software developer specializing in full-stack web application development. I have hands-on experience with **.NET Core**, **React**, **SQL Server**, **PostgreSQL**, **RabbitMQ**, **Redis**, **Keycloak**, **Docker**, and **microservices architecture**. I’ve been involved in several professional projects where I focused on performance, scalability, and writing clean, maintainable code.
 
 I am continuing to work on microservices and microfrontends.
+---
 
+## 🚀 Featured Projects
+
+Here are some applications I developed and currently have live in production:
+
+## 🏟️ Saha360
+
+A community-driven map for discovering sports venues and real-time activity across basketball, football, tennis, and more.
+
+Saha360 helps players find nearby courts, pitches, and other sports venues, check how busy a location is, and follow activity signals from people who are already there. Users can share updates such as being at the venue, arriving soon, looking for a match, or reporting how many players are currently playing. The platform also includes a venue request flow, allowing users to suggest missing locations and make them visible after approval.
+
+🔗 Live: [saha360.fun](https://saha360.fun/)
+
+## 🥊 UFC Events
+
+A simple UFC event tracker with calendar delivery for upcoming fight cards.
+
+UFC Events lists upcoming UFC events in a clean interface and makes it easy to save a selected event to your calendar. After choosing an event, users can enter their email to receive a calendar invite containing the event details, fight card, and athlete information directly in the email and calendar entry.
+
+🔗 Live: [ufc-events.com](https://ufc-events.com/)
+
+---
 
 ## 🚀 Technologies & Tools
 
